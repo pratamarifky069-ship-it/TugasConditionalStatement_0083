@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Prosedur untuk input data
+//Program untuk menghitung BMI mahasiswa
 void inputData(float &berat, float &tinggi){
     cout << "Masukkan berat badan (kg): ";
     cin >> berat;
