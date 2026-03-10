@@ -37,7 +37,7 @@ int main(){
 //Menghitung BMI dari berat dan tinggi
     bmi = hitungBMI(berat, tinggi);
     status = statusBMI(bmi);
-    
+//Menampilkan hasil BMI    
     cout << "BMI Anda : " <<bmi <<endl;
     cout << "Status   : " <<status <<endl;
     return 0;
