@@ -26,6 +26,7 @@ string statusBMI(float bmi){
     else 
         return "Obesitas";
 }
+//Program utama
 int main(){
     float berat, tinggi, bmi;
     string status;
