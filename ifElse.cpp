@@ -2,6 +2,7 @@
 using namespace std;
 
 //Program untuk menghitung BMI mahasiswa
+//Prosedur untuk memasukkan berat dan tinggi badan
 void inputData(float &berat, float &tinggi){
     cout << "Masukkan berat badan (kg): ";
     cin >> berat;
